@@ -1,15 +1,11 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
-=======
 @font-face {
     font-family:'dancing_scriptregular';
     src: url("dancingscript-variablefont_wght-webfont.woff2") format('woff2'),
          url("dancingscript-variablefont_wght-webfont.woff") format('woff');
-}
->>>>>>> parent of 89986b9 (Update styles.css)
-
 h1{
-  font-family: "Dancing Script", cursive;
+  font-family: "dancing_scriptregular";
   font-weight: normal;
   font-style: normal;
 }
