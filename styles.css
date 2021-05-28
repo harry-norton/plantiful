@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 body{
   background: #8CF586;
@@ -9,11 +10,22 @@ h1{
   color: white;
   font-size: 180px;
   text-align: center;
+  border-bottom: 1px solid;
+  padding-bottom: 3px;
+  margin: 0;
 }
 
 h2{
   font-family: "Parisienne";
   color: white;
   font-size: 64px;
+  text-align: center;
+}
+
+
+#landingpageone{
+  font-family: "Open Sans", sans-serif;
+  font-size: 36px;
+  color: white;
   text-align: center;
 }
