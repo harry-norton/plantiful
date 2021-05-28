@@ -1,1 +1,11 @@
-background: #8CF586
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+body{
+  background: #8CF586;
+}
+
+h1{
+  font-family: 'Parisienne', cursive;
+  font-size: 64px;
+  text-align: center;
+}
