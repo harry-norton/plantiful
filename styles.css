@@ -1,0 +1,11 @@
+@font-face {
+    font-family:'dancing_scriptregular';
+    src: url("C:\Users\44753\Desktop\Sophies stuff\Website\Project Files\dancingscript-variablefont_wght-webfont.woff2") format('woff2'),
+         url("C:\Users\44753\Desktop\Sophies stuff\Website\Project Files\dancingscript-variablefont_wght-webfont.woff") format('woff');
+}
+
+h1{
+  font-family: "dancing_scriptbold";
+  font-weight: normal;
+  font-style: normal;
+}
