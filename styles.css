@@ -1,9 +1,4 @@
-@font-face {
-    font-family:'dancing_scriptregular';
-    src: url("dancingscript-variablefont_wght-webfont.woff2") format('woff2'),
-         url("DancingScript-variablefont_wght") format("ttf"),
-         url("dancingscript-variablefont_wght-webfont.woff") format('woff');
-}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 h1{
   font-family: "dancing_scriptregular";
