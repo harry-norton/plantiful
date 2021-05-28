@@ -6,6 +6,14 @@ body{
 
 h1{
   font-family: 'Parisienne', cursive;
+  color: white;
+  font-size: 180px;
+  text-align: center;
+}
+
+h2{
+  font-family: "Parisienne";
+  color: white;
   font-size: 64px;
   text-align: center;
 }
