@@ -13,6 +13,7 @@ h1{
   border-bottom: 1px solid;
   padding-bottom: 3px;
   margin: 0;
+  background: url()
 }
 
 h2{
@@ -28,4 +29,20 @@ h2{
   font-size: 36px;
   color: white;
   text-align: center;
+}
+
+.instabutton{
+  background-color: inherit;
+  border: none;
+  transition: transform 200ms;
+}
+
+.instabutton:hover{
+  transform: matrix(1.2, 0, 0, 1.2, 0, 0);
+}
+
+.image-blurrededge {
+  width: inherit;
+  box-shadow: 0 0 4px 4px #8CF586 inset;
+
 }
